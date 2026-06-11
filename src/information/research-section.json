@@ -1,0 +1,20 @@
+{   "research-topics": [
+        {
+            "title": "Complex Event Processing",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "important-work": [{"title": "The Recovery of a schema mapping: Bringing exchanged data back", "year": "2008", "author": ["Marcelo Arenas, Jorge Pérez, Cristian Riveros"], "journal": "", "url":"", "slides-link": "", "comments": ""}, {"title": "The Recovery of a schema mapping: Bringing exchanged data back", "year": "2008", "author": "Marcelo Arenas, Jorge Pérez, Cristian Riveros", "journal": "", "url":"", "slides-link": "", "comments": ""}]
+        },
+        {
+            "title": "Information Extraction",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "important-work": [{"author": "Alejandro Grez, Cristian Riveros, Martín Ugarte, Stijn Vansummeren", "title": "A Formal Framework for Complex Event Recognition", "journal": "{ACM} Trans. Database Syst.", "year": 
+            "2021", "url": "https://doi.org/10.1145/3485463"}]
+        },
+        {
+            "title": "Automata Theory",
+            "description": " ",
+            "important-work": []
+        }
+    ],
+    "information": [{"description": ["People and digital systems generates today data at high speed like sensors networks, stock markets, smart cities, or social networks, among others. These data sources are usually referred to as data streams: continuous sequences of data generated at high speed and without end. Complex Event Recognition (CER) is a class of technologies that model data streams as sequences of events, where users are interested in recognizing complex events, namely, groups of events on a stream that represent critical situations in real life. Examples of complex events could include a fire detected by a sensor network in a nature reserve, an accident recognized by cameras in a smart city, or a critical social event in a social network. To detect these complex event, a complex event recognition engine is a data management software that must efficiently process such data and alert on the presence of complex events in real time.", "In this line of work, my group study the foundations of complex event recognition systems starting from the query language to specify patterns of complex events, continue with the computational model to internally represent such patterns, and the optimization and efficient evaluation of such models. This line of work goes from the "]}]
+}

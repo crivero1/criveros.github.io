@@ -1,0 +1,8 @@
+{
+    "conferences": [
+        {"title": "The Recovery of a schema mapping: Bringing exchanged data back", "year": "2008", "authors": ["Marcelo Arenas", "Jorge Pérez"], "type": "PODS", "pdf-link":"https://criveros.ing.uc.cl/papers/tods09.pdf", "slides-link": "", "comments": ""}
+    ],
+    "journal": [
+        {"title": "The Recovery of a schema mapping: Bringing exchanged data back", "year": "2008", "authors": ["Marcelo Arenas", "Jorge Pérez"], "type": "TODS", "pdf-link":"", "slides-link": "", "comments": ""}
+    ]
+}

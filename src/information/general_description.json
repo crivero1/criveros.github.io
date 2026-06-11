@@ -1,0 +1,8 @@
+{   "who-i-am": [
+        {"description": ["I am an associate professor at the Department of Computer Science at the Pontificia Universidad Católica de Chile (PUC Chile).  My research interests are in the connection between theoretical computer science and databases, an area known as database theory. You can find more about my research topics, implementation projects, and courses below."]}
+        ],
+    "information": [
+        {"affiliation": "Department of Computer Science", "address": ["Instituto de Ingeniería Matemática y Computacional", "Vicuna Mackenna 4860 ", "Edificio San Agustin, 4to piso ", "Macul, Santiago, 7820436"], "phone": "+56 2 23547407", "email": "cristian.riveros@uc.cl"},
+        {"address-link":"https://maps.app.goo.gl/Nbx3RoXnTVDXUzDGA", "uc-link": "https://www.ing.uc.cl/en/academicos-e-investigadores/cristian-riveros-jaeger/", "scholar-link": "https://scholar.google.com/citations?user=wkDO2HIAAAAJ&hl=es", "dblp-link": "https://dblp.org/pid/72/4028.html", "linkedin-link": "https://www.linkedin.com/in/cristian-riveros-jaeger-6297b8389/"}
+    ]
+}
