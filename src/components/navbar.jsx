@@ -7,26 +7,12 @@ export default function Navbar () {
         {/* <nav className="bg-neutral-secondary-soft fixed w-full z-20 top-0 start-0 border-b border-default"> */}
         <nav className='fixed w-full z-20 top-0 start-0 bg-gray-1 mx-0'>
             <div className="flex flex-wrap justify-end mx-0 p-0">
-                {/* <a href="#" className="flex items-center space-x-3 rtl:space-x-reverse">
-                    <img src="https://flowbite.com/docs/images/logo.svg" className="h-7" alt="Flowbite Logo" />
-                    <span className="self-center text-xl text-heading font-semibold whitespace-nowrap">Flowbite</span>
-                </a> */}
-                <button 
-                // data-collapse-toggle="navbar-hamburger"
-                // type="button" 
-                className="inline-flex p-2 w-10 h-10 justify-center text-sm" 
-                // text-body 
-                // rounded-base
-                // hover:text-heading
-                // focus:outline-none 
-                // focus:ring-1 
-                // aria-controls="navbar-hamburger" 
-                // aria-expanded="false"
-                onClick={() => {
-                    setHideMenu(!hideMenu);
-                }}
+                <button  
+                    className="inline-flex p-2 w-10 h-10 justify-center text-sm" 
+                    onClick={() => {
+                        setHideMenu(!hideMenu);
+                    }}
                 >
-                    {/* <span className="sr-only">Open main menu</span> */}
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-6">
                         <path d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" style={{strokeLinecap:"round", strokeLinejoin:"round"}}/>
                     </svg>

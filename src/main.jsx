@@ -10,12 +10,5 @@ import HomePage from './pages/home.jsx';
 createRoot(document.getElementById('root')).render(
   <BrowserRouter>
     <App />
-    {/* <RouterProvider router={router} /> */}
-    {/* <Routes>
-      <Route element={<Layout />}>
-        <Route path="/" element={<HomePage />}/>
-        <Route path="/publications" element={<HomePage />}/>
-      </Route>
-    </Routes> */}
   </BrowserRouter>,
 )
